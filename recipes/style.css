@@ -1,0 +1,29 @@
+body{
+  padding: 10px;
+  background-color: rgb(37, 27, 56);
+  color: white;
+}
+
+img{
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin: 25px auto;
+}
+
+h1{
+  text-align: center;
+  margin: 8px;
+}
+
+h2{
+  display: inline;
+  border: 2px dotted rgb(0, 255, 251);
+  margin: 8px;
+}
+
+p{
+  margin: 16px;
+}
+
+
